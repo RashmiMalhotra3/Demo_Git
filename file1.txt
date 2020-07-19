@@ -1,4 +1,4 @@
-file1
+file1 - conflict here
 
 made changes in the file to commit again
 
